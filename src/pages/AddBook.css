@@ -1,0 +1,67 @@
+.addbook-container {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.form-section {
+  flex: 0 0 auto;
+}
+
+.social-icon{
+  display: inline-block;
+  margin-right: 10px;
+  transition: all 0.1s ease-in-out; 
+}
+
+.social-icon:hover{
+  transform: scale(1.1);
+}
+
+.side-section {
+  flex: 1;
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  margin: 20px;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+  width: 400px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+form input {
+  display: block;
+  width: 380px;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+form textarea {
+  display: block;
+  width: 382px;
+  padding: 8px;
+  margin: 10px 0;
+  resize: vertical;
+}
+
+.browserButton {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.browserButton:hover {
+  background-color: #2ecc71;
+  transform: scale(1.05);
+}
