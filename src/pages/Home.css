@@ -1,0 +1,10 @@
+.home-container {
+  display: flex;
+  min-height: 90vh;
+}
+
+.popular-books {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
