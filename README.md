@@ -5,20 +5,20 @@ This project allows users to browse, search, view, and add books dynamically wit
 
 ## Libraries Used
 
-*React (Vite)
-*Redux Toolkit
-*React Router DOM
+* React (Vite)
+* Redux Toolkit
+* React Router DOM
 
 ## Features
 
-*Browse books by category  
-*Search books by title or author (can detect wrapped text)  
-*View detailed information about each book  
-*Add new books using a form  
-*Dynamic routing using React Router  
-*Global state management using Redux Toolkit  
-*Responsive design with animations  
-*404 page for invalid routes
+* Browse books by category  
+* Search books by title or author (can detect wrapped text)  
+* View detailed information about each book  
+* Add new books using a form  
+* Dynamic routing using React Router  
+* Global state management using Redux Toolkit  
+* Responsive design with animations  
+* 404 page for invalid routes
 
 ## How to install
 
