@@ -1,0 +1,38 @@
+.book-card {
+  width: 250px;
+  min-height: 400px;
+  background-color: #fff;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+  transition: transform 0.2s ease-in-out;
+  overflow: hidden;
+}
+
+.book-card:hover {
+  transform: scale(1.1);
+}
+
+.book-cover {
+  width: 247px;
+  height: 300px;
+  object-fit: fill;
+}
+
+.book-description {
+  padding: 10px;
+  color: #570;
+}
+
+.book-title {
+  font-size: 1em;
+  margin: 10px;
+}
+
+.book-author {
+  font-size: 0.9em;
+  margin: 10px;
+  color: #555;
+}
