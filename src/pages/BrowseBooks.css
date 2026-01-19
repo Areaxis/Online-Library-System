@@ -1,0 +1,17 @@
+.browse-container {
+  display: flex;
+  min-height: 90vh;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+.book-list {
+  display: flex;
+  flex-wrap: wrap;      
+  gap: 15px;                
+  justify-content: flex-start;
+}
+
