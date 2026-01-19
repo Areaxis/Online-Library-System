@@ -1,0 +1,13 @@
+.browse-container {
+  display: flex;
+  min-height: 90vh;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+body {
+    overflow-x: hidden;
+}
